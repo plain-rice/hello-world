@@ -1,2 +1,2 @@
 # hello-world
-this is my first program.
+HI there! add me up
